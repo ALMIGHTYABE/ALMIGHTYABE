@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋, I'm Almighty Abe
 
-<!--
-**ALMIGHTYABE/ALMIGHTYABE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on a Dynamic Fee Algorithm
 
-Here are some ideas to get you started:
+Have a look at my existing projects;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Lookerstudio Dashboards:
+- Thena Finance: [Link](https://lookerstudio.google.com/reporting/6764c464-67fe-4d5c-b9dc-fb44df136f9b)
+- Retro Finance: [Link](https://lookerstudio.google.com/reporting/735795dd-5d73-4f31-84f5-15d3a73fb370)
+
+#### Streamlit Apps:
+- Thena Stats: [Link](https://thena-stats.streamlit.app/)
+Track TVL inflows and outflows across various pools
+- Retro Tools:[Link](https://retro-tools.streamlit.app/)
+A suite of tools and key DEX analytics visualized using Streamlit
+- Retro APR: [Link](https://retro-apr.streamlit.app/)
+A prototype to reward and display accurate APRs for active liquidityranges in a Uniswap V3 pool
