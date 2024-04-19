@@ -10,8 +10,11 @@ Have a look at my existing projects;
 
 #### Streamlit Apps:
 - Thena Stats: [Link](https://thena-stats.streamlit.app/)
+
 Track TVL inflows and outflows across various pools
 - Retro Tools:[Link](https://retro-tools.streamlit.app/)
+
 A suite of tools and key DEX analytics visualized using Streamlit
 - Retro APR: [Link](https://retro-apr.streamlit.app/)
+
 A prototype to reward and display accurate APRs for active liquidityranges in a Uniswap V3 pool
