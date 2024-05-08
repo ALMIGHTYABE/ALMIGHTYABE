@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Almighty Abe
 
-I’m currently working on a Dynamic Fee Algorithm
+I’m currently working on a dynamic fee algorithm
 
 Have a look at my existing projects;
 
